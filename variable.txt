@@ -1,0 +1,14 @@
+PIC=picture
+
+9 — numeric
+
+A — alphabetic
+
+X — alphanumeric
+
+V — decimal
+
+S — sign
+
+Example: 
+01 SECOND-VAR PIC S9(3)V9(2) VALUE -123.45.
